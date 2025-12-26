@@ -2,7 +2,7 @@
   "name": "thrumyeyes",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://gitname.github.io/thrumyeyes_react",
+  "homepage": "https://dazzae-exe.github.io/thrumyeyes_react",
   "type": "module",
   "scripts": {
     "predeploy": "pnpm run build",
